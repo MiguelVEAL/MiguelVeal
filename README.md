@@ -1,12 +1,15 @@
 <h1 align="center">Hola 👋,Yo soy Miguel Vergara</h1>
 <h3 align="center">🎯 Desarrollador Full Stack en formación | Kotlin, Redes y Bases de Datos</h3>
+<br>
 
 <p>Soy un apasionado por la tecnología y actualmente me estoy especializando en desarrollo Full Stack,<br> 
 combinando habilidades en backend y frontend con sólidos conocimientos en Kotlin, redes de computadoras y bases de datos.<br>
 Me interesa construir soluciones eficientes, seguras y escalables que impacten positivamente en la vida de las personas.
 <br>
+ <br>
 💡 Siempre estoy explorando nuevas tecnologías y buenas prácticas de desarrollo. Disfruto aprender de cada proyecto y colaborar en equipos donde el código se convierte en innovación.
-
+<br>
+ <br>
 🔧 Tecnologías y áreas de interés:
 <ul>
  
