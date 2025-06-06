@@ -25,7 +25,7 @@ Me interesa construir soluciones eficientes, seguras y escalables que impacten p
 🚀 Abierto a nuevos desafíos, contribuciones a proyectos open source y oportunidades para seguir creciendo profesionalmente.
 <br>
 <h2  align="center">Mi Portafolio </h2>
-<picture  align="center"><a href="https://miguelveal.github.io/portfoliov2/"><img src="portfolio.jpg" width="200px" height="100%"></a></picture>
+<picture ><a href="https://miguelveal.github.io/portfoliov2/"><img src="portfolio.jpg" width="200px" height="100%" align="center"></a></picture>
 </p>
 
 <h3 align="left">Conecta conmigo:</h3>
